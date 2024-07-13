@@ -1,2 +1,2 @@
 debian
-Zerotier/Zerotier
+zerotier/zerotier:latest
