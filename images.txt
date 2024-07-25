@@ -3,3 +3,4 @@ zerotier/zerotier:latest
 alpine
 budtmo/docker-android:emulator_11.0
 budtmo/docker-android:emulator_9.0
+zerotier/zerotier:armv7
