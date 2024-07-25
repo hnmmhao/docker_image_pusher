@@ -1,3 +1,4 @@
 debian
 zerotier/zerotier:latest
 alpine
+budtmo/docker-android:emulator_11.0
